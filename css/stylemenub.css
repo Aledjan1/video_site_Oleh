@@ -47,7 +47,7 @@ body {
 	text-align: center;
 }
  
-.dmainbody {
+#dmainbody {
 	background-color: lightgray;
 	padding: 10px 20px 20px;
 	width: auto;
@@ -76,6 +76,7 @@ footer {
 	padding: 10px;
 	text-align: center;
 }
+
 
 
 
