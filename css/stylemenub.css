@@ -29,8 +29,16 @@ a.active {
 body {
 	background-color: lightgrey;
 }
+
+.dnav {
+	background-color: white;
+	margin: 0px;
+	padding-top: 10px;
+	height: 50px;
+	text-align: center;
+}
  
-d.navs {
+.dnavs {
 	background-color: #f1f1f1;
 	margin: 0px;
 	padding-top: 8px;
@@ -68,5 +76,6 @@ footer {
 	padding: 10px;
 	text-align: center;
 }
+
 
 
